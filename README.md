@@ -1,3 +1,10 @@
+0. <<Mine>>
+   i. export PATH=$PATH:/usr/local/mysql/bin
+
+   ii. sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libzlib.so
+
+   iii. export LD_LIBRARY_PATH=~/mysql-5.6/libmysql
+   
 1. Build binaries
    * `cd src ; make`
    ( you should have mysql_config available in $PATH)
