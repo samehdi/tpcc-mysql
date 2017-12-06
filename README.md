@@ -1,4 +1,5 @@
-0. <<Mine>>
+0. My pre-reqs for running with mysql on Cloudlab
+
    i. export PATH=$PATH:/usr/local/mysql/bin
 
    ii. sudo ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libzlib.so
